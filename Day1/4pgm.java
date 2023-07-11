@@ -1,3 +1,4 @@
+#program to find if sum of two numbers is even or odd
 import java.util.Scanner;
 public class evorod {
     public static void main(String[] args) {
