@@ -1,3 +1,4 @@
+#program to find greatest of two numbers
 import java.util.Scanner;
 public class gof2 {
     public static void main(String[] args) {
