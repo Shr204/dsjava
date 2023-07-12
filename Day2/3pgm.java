@@ -1,4 +1,4 @@
-#Program to print even numbers from 1 to 100
+//Program to print even numbers from 1 to 100
 import java.util.Scanner;
 public class oneto100 {
     public static void main(String[] args) {
