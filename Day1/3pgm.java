@@ -1,4 +1,4 @@
-#Program to find if a number is even or odd
+//Program to find if a number is even or odd
 import java.util.Scanner;
 public class evorod {
     public static void main(String[] args) {
