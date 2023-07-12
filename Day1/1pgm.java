@@ -1,4 +1,4 @@
-#Program to find if a number is positive, negative or zero
+//Program to find if a number is positive, negative or zero
 import java.util.Scanner;
 public class posnegzero {
     public static void main(String[] args) {
