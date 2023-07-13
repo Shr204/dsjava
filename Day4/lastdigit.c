@@ -1,4 +1,5 @@
-
+#include <stdio.h>
+#include <string.h>
   int lastDigitOf(int input1){
       if(input1>0){
            int rem = input1%10;
